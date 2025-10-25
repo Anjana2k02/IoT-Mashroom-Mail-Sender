@@ -1,0 +1,15 @@
+# Database
+psycopg2-binary==2.9.9
+pandas==2.1.4
+
+# Configuration
+python-dotenv==1.0.0
+
+# LlamaIndex (for Ollama)
+llama-index==0.10.0
+llama-index-llms-ollama==0.1.0
+llama-index-embeddings-huggingface==0.2.0
+
+# Email (built-in, no installation needed)
+# smtplib - built-in
+# email - built-in
